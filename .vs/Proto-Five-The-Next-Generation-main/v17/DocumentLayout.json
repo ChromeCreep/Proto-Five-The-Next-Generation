@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Games\\Made\\1 - Tests\\Proto-Five-The-Next-Generation-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F66D52-7720-42DB-4360-4A30AA6EBF40}|Assembly-CSharp.csproj|e:\\games\\made\\1 - tests\\proto-five-the-next-generation-main\\assets\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F66D52-7720-42DB-4360-4A30AA6EBF40}|Assembly-CSharp.csproj|solutionrelative:assets\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F66D52-7720-42DB-4360-4A30AA6EBF40}|Assembly-CSharp.csproj|e:\\games\\made\\1 - tests\\proto-five-the-next-generation-main\\assets\\topdownplayermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F66D52-7720-42DB-4360-4A30AA6EBF40}|Assembly-CSharp.csproj|solutionrelative:assets\\topdownplayermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "E:\\Games\\Made\\1 - Tests\\Proto-Five-The-Next-Generation-main\\Assets\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Bullet.cs",
+              "ToolTip": "E:\\Games\\Made\\1 - Tests\\Proto-Five-The-Next-Generation-main\\Assets\\Bullet.cs",
+              "RelativeToolTip": "Assets\\Bullet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T12:41:03.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TopDownPlayerMovement.cs",
+              "DocumentMoniker": "E:\\Games\\Made\\1 - Tests\\Proto-Five-The-Next-Generation-main\\Assets\\TopDownPlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\TopDownPlayerMovement.cs",
+              "ToolTip": "E:\\Games\\Made\\1 - Tests\\Proto-Five-The-Next-Generation-main\\Assets\\TopDownPlayerMovement.cs",
+              "RelativeToolTip": "Assets\\TopDownPlayerMovement.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAgwIoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T09:52:32.24Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
